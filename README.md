@@ -19,3 +19,4 @@ Production Build: https://cyberani.vercel.app/
 Development Build: https://anime-app-git-dev-branch-syahrilhanla.vercel.app/
 
 ## Build Single Handedly by SyahrilHanla (myself)
+## LOVE REMINZ KUN
